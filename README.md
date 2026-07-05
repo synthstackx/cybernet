@@ -4,7 +4,7 @@ A responsive cyborg-themed landing page built with pure HTML, CSS, and JavaScrip
 
 ## Live Demo
 
-[View Live Page](https://yourusername.github.io/your-repo-name)
+[View Live Page](https://synthstackx.github.io/cybernet/)
 
 ## Features
 
