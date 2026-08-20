@@ -18,8 +18,8 @@ A responsive cyborg-themed landing page built with pure HTML, CSS, and JavaScrip
 
 ## Tech Stack
 
-- HTML5
-- CSS3 (custom properties, clip-path, animations, grid)
+- HTML
+- CSS (custom properties, clip-path, animations, grid)
 - Vanilla JavaScript (IntersectionObserver, setInterval)
 - Google Fonts (Orbitron, Share Tech Mono, Inter)
 
